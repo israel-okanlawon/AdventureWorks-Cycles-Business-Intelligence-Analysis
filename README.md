@@ -22,9 +22,9 @@ This project involves the analysis of AdventureWorks Cycles' business operations
 - Provided actionable recommendations to optimize business operations.
 
 ## Interactive Visualizations Created
-- [Executive Dashboard](report/1.-Executive-Dashboard.png)
-- [Geographical Analysis Visualization](reports/2.-Geographical-Viz.png)
-- [Product Analysis Visualization](reports/3.-Product-Viz.png)
-- [Customer Analysis Visualization](reports/4.-Customer-Viz.png)
+- [Executive Dashboard](report/1.%Executive%Dashboard.png)
+- [Geographical Analysis Visualization](reports/2.%Geographical%Viz.png)
+- [Product Analysis Visualization](reports/3.%Product%Viz.png)
+- [Customer Analysis Visualization](reports/4.%Customer%Viz.png)
 - [All Report](reports/AdventureWorks_Report.pdf)
 
