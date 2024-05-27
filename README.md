@@ -22,6 +22,8 @@ This project involves the analysis of AdventureWorks Cycles' business operations
 - Provided actionable recommendations to optimize business operations.
 
 ## Interactive Visualizations Created
+- [Click here to view full Report](AdventureWorks_Report.pdf)
+  
+![1  Executive Dashboard](https://github.com/israel-okanlawon/AdventureWorks-Cycles-Business-Intelligence-Analysis/assets/37417155/4c0eba3f-ee09-4f30-89f3-df5fe19cbc23)
 
-- [Click to view Report](AdventureWorks_Report.pdf)
 
