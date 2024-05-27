@@ -23,5 +23,5 @@ This project involves the analysis of AdventureWorks Cycles' business operations
 
 ## Interactive Visualizations Created
 
-- [Click to view Report](reports/AdventureWorks_Report.pdf)
+- [Click to view Report](AdventureWorks_Report.pdf)
 
